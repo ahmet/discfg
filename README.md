@@ -3,7 +3,7 @@
 [![License Apache 2](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://github.com/tmaiaroto/discfg/blob/master/LICENSE) [![godoc discfg](https://img.shields.io/badge/godoc-reference-blue.svg)](http://godoc.org/github.com/tmaiaroto/discfg) [![Build Status](https://travis-ci.org/tmaiaroto/discfg.svg?branch=master)](https://travis-ci.org/tmaiaroto/discfg) [![goreport discfg](https://goreportcard.com/badge/github.com/tmaiaroto/discfg)](https://goreportcard.com/report/github.com/tmaiaroto/discfg)
 
 A serverless and distributed (key/value) configuration tool built on top of Amazon Web Services. Specifically,
-it aims to use Lambda, DyanmoDB, and API Gateway. Though it can be used with other services.
+it aims to use Lambda, DynamoDB, and API Gateway. Though it can be used with other services.
 
 It can install to your system as a binary, so managing configuration from any machine is simple from 
 a command line. You can also work with configurations via RESTful API.
